@@ -1,4 +1,4 @@
-node server - запуск сервера
+node server - запуск сервера nodemon server - запуск сервера через nodemon
 
 - https://expressjs.com/ru/starter/installing.html
 
@@ -8,4 +8,6 @@ node server - запуск сервера
 
 - http://expressjs.com/en/resources/middleware/body-parser.html
 
--
+- https://www.npmjs.com/package/nodemon
+
+- https://opensource.zalando.com/restful-api-guidelines/
